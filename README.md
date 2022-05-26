@@ -8,14 +8,6 @@ Prototype d'une application mobile Flutter permettant de référencer du mobilie
 - Prise de photo
 - Envoie des données par mail
 - Questionnaire personnalisé
-<p float="left">
-  <img src="https://i.imgur.com/XCHQVoc.png" width="25%" />
-  <img src="https://i.imgur.com/rpovSKJ.png" width="25%" />
-  <img src="https://i.imgur.com/A29jyqI.png" width="25%" />
-  <img src="https://i.imgur.com/KJVdeQg.png" width="25%" />
-  <img src="https://i.imgur.com/XGFsesI.png" width="25%" />
-  <img src="https://i.imgur.com/R0dPb7p.png" width="25%" />
-</p>
 
 ## Getting Started
 
